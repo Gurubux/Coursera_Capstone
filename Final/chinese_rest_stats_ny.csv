@@ -1,0 +1,51 @@
+Borough,Neighborhood,ID,Name,Likes,Rating,Tips
+Andheri,"Amboli,Chakala,D.N. Nagar,Four Bungalows,JB Nagar,Lokhandwala,Marol,Model Town,Oshiwara,Poonam Nagar,Sahar,Saki Naka,Seven Bungalows,Versova",51fb7853498e2d2b68bc9b7c,King chilly,6,7.4,3
+Andheri,"Amboli,Chakala,D.N. Nagar,Four Bungalows,JB Nagar,Lokhandwala,Marol,Model Town,Oshiwara,Poonam Nagar,Sahar,Saki Naka,Seven Bungalows,Versova",4e7f3bfa6c253723ab371422,Shanghai,5,7.4,4
+Andheri,"Amboli,Chakala,D.N. Nagar,Four Bungalows,JB Nagar,Lokhandwala,Marol,Model Town,Oshiwara,Poonam Nagar,Sahar,Saki Naka,Seven Bungalows,Versova",4df24b2cd1649c8a28de604e,Shetty's Corner,9,6.8,15
+Andheri,"Amboli,Chakala,D.N. Nagar,Four Bungalows,JB Nagar,Lokhandwala,Marol,Model Town,Oshiwara,Poonam Nagar,Sahar,Saki Naka,Seven Bungalows,Versova",4e4eb3c68877402b06b92160,"5 Spice , Bandra",8,6.9,5
+Bandra,"Bandra Kurla Complex,Bandstand Promenade,Gandhi Nagar,Kherwadi,Lands End,Pali Hill,Bandra Reclamation",5554c803498e0c591b97b3e5,Wok Express,11,8.3,7
+Bandra,"Bandra Kurla Complex,Bandstand Promenade,Gandhi Nagar,Kherwadi,Lands End,Pali Hill,Bandra Reclamation",4cd6628b76ab721e9deb726a,Jim-me's Kitchen,20,7.1,21
+Borivali,"I.C. Colony,L.I.C. Colony aka Jeevan Bhima Nagar,Eksar Colony,Shimpoli,Gorai,Kora Kendra,Vazira Naka,Babhai,Chikuwadi,Yogi Nagar",4f047a019911be1fbd6c719c,Kuku's chinese,5,7.3,5
+Borivali,"I.C. Colony,L.I.C. Colony aka Jeevan Bhima Nagar,Eksar Colony,Shimpoli,Gorai,Kora Kendra,Vazira Naka,Babhai,Chikuwadi,Yogi Nagar",4d493ca09544a093811926e7,Raju's Kitchen,10,7.3,11
+Borivali,"I.C. Colony,L.I.C. Colony aka Jeevan Bhima Nagar,Eksar Colony,Shimpoli,Gorai,Kora Kendra,Vazira Naka,Babhai,Chikuwadi,Yogi Nagar",4e5f9b911495f9ece2d05a70,Night Evil Chinese Food,4,6.7,2
+Borivali,"I.C. Colony,L.I.C. Colony aka Jeevan Bhima Nagar,Eksar Colony,Shimpoli,Gorai,Kora Kendra,Vazira Naka,Babhai,Chikuwadi,Yogi Nagar",4e4d2c5caeb77d4a40e4b425,Chotu's Kitchen,3,6.9,6
+Borivali,"I.C. Colony,L.I.C. Colony aka Jeevan Bhima Nagar,Eksar Colony,Shimpoli,Gorai,Kora Kendra,Vazira Naka,Babhai,Chikuwadi,Yogi Nagar",4f23986ce4b0085e491c25a5,5 Spice,37,6.4,26
+Borivali,"I.C. Colony,L.I.C. Colony aka Jeevan Bhima Nagar,Eksar Colony,Shimpoli,Gorai,Kora Kendra,Vazira Naka,Babhai,Chikuwadi,Yogi Nagar",0,0,0,0,0
+Borivali East,"Magathane,Nancy Colony,Sukurwadi",4d493ca09544a093811926e7,Raju's Kitchen,10,7.3,11
+Borivali East,"Magathane,Nancy Colony,Sukurwadi",4f047a019911be1fbd6c719c,Kuku's chinese,5,7.3,5
+Borivali East,"Magathane,Nancy Colony,Sukurwadi",4e5f9b911495f9ece2d05a70,Night Evil Chinese Food,4,6.7,2
+Borivali East,"Magathane,Nancy Colony,Sukurwadi",4f23986ce4b0085e491c25a5,5 Spice,37,6.4,26
+Borivali East,"Magathane,Nancy Colony,Sukurwadi",0,0,0,0,0
+Dahisar,Dahisar,4e9b00256c2592b36ce2679e,Sanjhi,13,6.5,8
+Dahisar,Dahisar,4e4d2c5caeb77d4a40e4b425,Chotu's Kitchen,3,6.9,6
+Dahisar,Dahisar,4b797716f964a520ccfa2ee3,Choi Kim Cusine,7,6.4,13
+Goregaon,"Aarey Milk Colony,Motilal Nagar,Bangur Nagar,Gokuldham,Pandurangwadi,NESCO colony",4d0e2587903d37044b46c855,5 Spice,73,8,42
+Goregaon,"Aarey Milk Colony,Motilal Nagar,Bangur Nagar,Gokuldham,Pandurangwadi,NESCO colony",4db44ddc5da3a76f443b86f7,China Ming,6,7.1,5
+Goregaon,"Aarey Milk Colony,Motilal Nagar,Bangur Nagar,Gokuldham,Pandurangwadi,NESCO colony",0,0,0,0,0
+Jogeshwari,"Jogeshwari West,Jogeshwari East",4b0587d6f964a520bca322e3,Mainland China,19,8,24
+Jogeshwari,"Jogeshwari West,Jogeshwari East",4ef49c7b6da1a067a6a96dee,Mainland China,49,7.9,19
+Jogeshwari,"Jogeshwari West,Jogeshwari East",4c135348a1010f472a764a18,China Gate,36,7.6,32
+Jogeshwari,"Jogeshwari West,Jogeshwari East",4df24b2cd1649c8a28de604e,Shetty's Corner,9,6.8,15
+Juhu,Juhu,50ba3776e4b062ae37022f54,Facing East,73,8,25
+Juhu,Juhu,4c276e1ca852c928142fe86c,Fusion Wong's,16,7.6,1
+Juhu,Juhu,4b0587daf964a5203da422e3,Sampan,13,7.1,3
+Kandivali west,"Charkop,Poisar,Hindustan Naka,Mahavir Nagar",4e26ebcaae609b2f94eb7e4e,Mainland China,17,7.5,10
+Kandivali west,"Charkop,Poisar,Hindustan Naka,Mahavir Nagar",4c14e8b577cea593d542d160,Maldrins Chinese Corner,7,7.1,9
+Kandivali west,"Charkop,Poisar,Hindustan Naka,Mahavir Nagar",4d52a8d8d7eaa143520d810f,JB Dynasty,8,6.8,6
+Kandivali west,"Charkop,Poisar,Hindustan Naka,Mahavir Nagar",4fc7a113e4b0f64665029d2a,Martin's,9,5.9,9
+Kandivali west,"Charkop,Poisar,Hindustan Naka,Mahavir Nagar",0,0,0,0,0
+Kandivali east,"Samta nagar,Damu nagar,Thakur complex,Thakur village,Lokandwala township,Akurli road,Janupada,Hanuman nagar",4e26ebcaae609b2f94eb7e4e,Mainland China,17,7.5,10
+Khar,"Pali Naka,Khar Danda",4bd8477bdc4b9521d5b87888,China Garden,24,7.6,8
+Khar,"Pali Naka,Khar Danda",5554c803498e0c591b97b3e5,Wok Express,11,8.3,7
+Malad,"Dindoshi,Sunder Nagar,Pathanwadi,Rani Sati Marg,Malvani",4e19593b483b5cfa49d3c01e,Mainland China,59,8,28
+Malad,"Dindoshi,Sunder Nagar,Pathanwadi,Rani Sati Marg,Malvani",4d0e2587903d37044b46c855,5 Spice,73,8,42
+Malad,"Dindoshi,Sunder Nagar,Pathanwadi,Rani Sati Marg,Malvani",4bf00630d4e4d13adcc115a7,Aromas Of China,8,5.6,14
+Santacruz,Kalina,4b0587cdf964a5204ba222e3,China House,54,7.7,24
+Santacruz,Kalina,4bd8477bdc4b9521d5b87888,China Garden,24,7.6,8
+Vile Parle,Irla,4e7f3bfa6c253723ab371422,Shanghai,5,7.4,4
+Vile Parle,Irla,50ba3776e4b062ae37022f54,Facing East,73,8,25
+Vile Parle,Irla,51fb7853498e2d2b68bc9b7c,King chilly,6,7.4,3
+Agripada,Antop Hill,4bfa316e5317a593335b027f,Chinese Palace,5,7.2,3
+Agripada,Antop Hill,51862333498e43b2811800bb,China Garden,12,7.1,3
+Agripada,Antop Hill,4b0587d6f964a520a8a322e3,The Flute,5,5.8,4
+Altamount Road,Altamount Road,51862333498e43b2811800bb,China Garden,12,7.1,3
